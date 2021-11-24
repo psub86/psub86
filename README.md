@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @psub86
+- 👋 Hi, I’m Priya Subramnanian, living in Munich
 - 👀 I’m interested in Data Science, Machine Learning, Statistics, Python, Rstudio, Big Data Analytics, Data Engineering
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate in Python, Rstudio, Big Data Analytics,
