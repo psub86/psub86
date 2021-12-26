@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Priya Subramnanian, living in Munich
 - 👀 I’m interested in Data Science, Machine Learning, Statistics, Python, Rstudio, Big Data Analytics, Data Engineering
 - 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate in Python, Rstudio, Big Data Analytics,
+- 💞️ I’m looking to accept challenges in ML field
 - 📫 One can reach me here https://www.linkedin.com/in/priya-subramanian-92062b120/
 <!---
 psub86/psub86 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
