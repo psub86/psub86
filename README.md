@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Priya Subramnanian, living in Munich
+- 👋 Hi, I’m Priya Subramanian, living in Munich
 - 👀 I’m interested in Data Science, Machine Learning, Statistics, Python, SQL, Big Data Analytics, Data Engineering
 - 🌱 I’m certrified Data Scientist
 - 💞️ I’m looking to accept challenges in ML field
